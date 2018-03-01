@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "212975392258",
+    "firebase_url": "https://lab3email-1e700.firebaseio.com",
+    "project_id": "lab3email-1e700",
+    "storage_bucket": "lab3email-1e700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212975392258:android:3a7e253f4187c941",
+        "android_client_info": {
+          "package_name": "lab3_email.tutorial.cs5511.com.lab3email"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212975392258-1lt06r9ba4ig802m0pvbrc0reft57gto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lab3_email.tutorial.cs5511.com.lab3email",
+            "certificate_hash": "d6e6881be3d024d46c8092ae4088af7a3bf49324"
+          }
+        },
+        {
+          "client_id": "212975392258-fpesk55a66gbk404a9898qsjsr4vvfqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAluEPRe2sZeC0VnqgnsRBnkFKexfsTjZc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212975392258-fpesk55a66gbk404a9898qsjsr4vvfqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
